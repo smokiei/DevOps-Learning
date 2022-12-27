@@ -10,11 +10,11 @@
 3. Select a subject area and describe the database schema, (minimum 3 tables) 
 4. Create a database on the server through the console
 5. Fill in tables
-![2](./2.PNG)
-![3](./3.PNG)
 ![4](./4.PNG)
 ![5](./5.PNG)
+![2](./2.PNG)
 ![6](./6.PNG)
+![3](./3.PNG)
 
 
 6. Construct and execute SELECT operator with WHERE, GROUP BY and ORDER BY
