@@ -1,5 +1,6 @@
 #### Database Administration
 
+
 ###### PART 1
 1. Download MySQL server for your OS on VM. 
 2. Install MySQL server on VM.
@@ -31,31 +32,30 @@
 ![13](./13.png)
 
 
+
+
 ###### PART 2
-10.Make backup of your database.
-11.Delete the table and/or part of the data in the table.
-12.Restore your database.
+10. Make backup of your database.
+11. Delete the table and/or part of the data in the table.
+12. Restore your database.
 ![14](./14.png)
 ![15](./15.png)
 
-13.Transfer your local database to RDS AWS.
-14.Connect to your database. 
+13. Transfer your local database to RDS AWS.
+14. Connect to your database. 
 ![16](./16.png)
 ![17](./17.png)
 ![18](./18.png)
 ![19](./19.png)
 
-15.Execute SELECT operator similar step 6. 
+15. Execute SELECT operator similar step 6. 
 ![20](./20.png)
 
-16.Create the dump of your database.
+16. Create the dump of your database.
 ![21](./21.png)
 
 
-
- 
-
-###### PART 3 – MongoDB
+##### PART 3 – MongoDB
 17. Create a database. Use the use command to connect to a new database (If it doesn't exist, Mongo will create it when you write to it). 
 ![22](./22.png)
 ![23](./23.png)
