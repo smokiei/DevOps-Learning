@@ -61,8 +61,7 @@
 ![23](./23.PNG)  
   
   
-18. Create a collection\. Use db\.createCollection to create a collection. I'll leave the subject up to you\. Run show dbs and show collections to view your database and  
-collections
+18. Create a collection\. Use db\.createCollection to create a collection. I'll leave the subject up to you\. Run show dbs and show collections to view your database and collections  
 ![24](./24.PNG)  
   
   
