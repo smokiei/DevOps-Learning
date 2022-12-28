@@ -1,5 +1,5 @@
 # **[Online UA] Cloud and DevOps Autumn 22**
-## L1 course Home Tasks by [tkachenkok.pp.ua](tkachenkok.pp.ua)
+## L1 course Home Tasks by [tkachenkok.pp.ua](http://tkachenkok.pp.ua)
 
 * #### [Linux+Bash](./linux_bash/README.MD)
 
@@ -14,8 +14,8 @@
 * #### [Jenkins](./Jenkins/README.MD)
 
 * #### [Terraform](./Terraform/README.MD)
-
+  
 * #### [Docker](./Docker/README.MD)
-
+  
 * #### [Ansible](./Ansible/README.MD)
 
