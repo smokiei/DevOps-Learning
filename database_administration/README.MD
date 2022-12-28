@@ -23,9 +23,11 @@
 ![8](./8.PNG)  
 ![9](./9.PNG)  
   
+  
 8. Create a database of new users with different privileges\. Connect to the database as a new user and verify that the privileges allow or deny certain actions  
 ![10](./10.PNG)  
 ![11](./11.PNG)  
+  
   
 9. Make a selection from the main table DB MySQL  
 ![12](./12.PNG)  
@@ -34,12 +36,13 @@
   
   
   
-###### PART 2
+###### PART 2  
 10. Make backup of your database  
 11. Delete the table and/or part of the data in the table  
 12. Restore your database  
 ![14](./14.PNG)  
 ![15](./15.PNG)  
+  
   
 13. Transfer your local database to RDS AWS  
 14. Connect to your database  
@@ -48,11 +51,15 @@
 ![18](./18.PNG)  
 ![19](./19.PNG)  
   
+  
 15. Execute SELECT operator similar step 6  
 ![20](./20.PNG)  
   
+  
 16. Create the dump of your database  
 ![21](./21.PNG)  
+  
+  
   
   
 ##### PART 3 – MongoDB

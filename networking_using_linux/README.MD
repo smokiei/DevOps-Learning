@@ -1,38 +1,22 @@
 #### Linux Networking
-![схема мережі](./map.png)
+![схема мережі](./networkmap.png)  
 
-Адреса мережі Net2 – 10.84.25.0/24
-Адреса мережі Net3 – 10.12.84.0/24
-Адреса мережі Net4 – 172.16.25.0/24
+Адреса мережі Net2 – 10.84.25.0/24  
+Адреса мережі Net3 – 10.12.84.0/24  
+Адреса мережі Net4 – 172.16.25.0/24  
 
-virtual machine Server_1 (name: Ubuntu) 
-  -ens33 
-virtual machine Client_1 (name: vm2) 
+virtual machine Server_1 (name: Ubuntu)  
+  - int1 ens33  
+  - int2 ens36  
+  - int3 ens39  
+virtual machine Client_1 (name: vm2)  
+  - int1 ens33  
+  - int2 ens36  
+  
 virtual machine Client_2 (name: vm3) 
+  - int1 ens33  
+  - int2 ens36  
 
-
-IP for all network
-
-For network №2:
-```
-net2 = 10.1.9.0/24
-int1 = 10.1.9.2/24
-int2 = 10.1.9.1/24
-```
-
-For network №3:
-```
-net3 = 10.9.9.0/24
-int3 = 10.9.9.1/24
-int1 = 10.9.9.2/24
-```
-
-For network №4:
-```
-net4 = 172.16.9.0/24
-int2 (client 1) = 172.16.9.1/24
-int2 (client 2) = 172.16.9.2/24
-```
 ################ 
 1. На Server_1 налаштувати статичні адреси на всіх інтерфейсах.
 ![1](./1.png)

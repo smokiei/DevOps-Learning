@@ -126,3 +126,46 @@ done
 # done
 # default=`ip r | grep default | awk '{print $5}'`
 
+
+
+
+
+
+#
+##!/bin/bash
+#
+## Function to display the list of possible keys
+#function show_keys(){
+#    echo "--all - displays the IP addresses and symbolic names of all hosts in the current subnet"
+#    echo "--target - displays a list of open system TCP ports"
+#}
+#
+## Function to display the IP addresses and symbolic names of all hosts in the current subnet
+#function list_all(){
+#    echo "Listing all IP addresses and symbolic names of all hosts in the current subnet:"
+#    arp -a
+#}
+#
+## Function to display a list of open system TCP ports
+#function list_target(){
+#    echo "Listing open system TCP ports:"
+#    netstat -at
+#}
+#
+## Main script
+#if [ $# -eq 0 ]; then
+#    show_keys
+#elif [ $# -eq 1 ]; then
+#    if [ "$1" == "--all" ]; then
+#        list_all
+#    elif [ "$1" == "--target" ]; then
+#        list_target
+#    else
+#        echo "Invalid argument: $1"
+#        show_keys
+#    fi
+#else
+#    echo "Too many arguments!"
+#    show_keys
+#fi
+
