@@ -1,5 +1,5 @@
 # **[Online UA] Cloud and DevOps Autumn 22**
-## L1 course Home Tasks
+## L1 course Home Tasks by [tkachenkok.pp.ua](tkachenkok.pp.ua)
 
 * #### [Linux+Bash](./linux_bash/README.MD)
 
