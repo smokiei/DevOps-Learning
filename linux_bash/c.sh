@@ -28,14 +28,14 @@ then
   if [ $? -eq 0 ]
   then
     echo "Process already running"
-    exit 1
+    #exit 1
   else
     ## Process not found assume not running
     echo $$ > $PIDFILE
     if [ $? -ne 0 ]
     then
       echo "Could not create PID file"
-      exit 1
+      #exit 1
     fi
   fi
 else
@@ -43,7 +43,7 @@ else
   if [ $? -ne 0 ]
   then
     echo "Could not create PID file"
-    exit 1
+    #exit 1
   fi
 fi
 
@@ -99,6 +99,6 @@ rm $TEMPFILE
 
 echo "Backup finished at $(date +"%D %T")" >> $LOGFILE
 
-#read -p "Press enter to continue"
+read -p "Press enter to continue"
 
 
