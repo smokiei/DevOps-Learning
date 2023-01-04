@@ -3,7 +3,7 @@
 
 * #### [Linux+Bash](Linux_bash/README.MD)
 
-* #### [Database Administration](./database_administration/README.MD)
+* #### [Database Administration](Database_administration/README.MD)
 
 * #### [Networking using Linux](Networking_using_linux/README.MD)    
 
