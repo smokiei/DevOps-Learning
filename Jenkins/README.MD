@@ -39,7 +39,7 @@ Setup environment on server for agent work properly
   install Docker and Java 11  
   ![11](./11.PNG) 
   
-Then, save ssh keys from AWS to access EC2 insta from Jenkins  
+Then, save ssh keys from AWS to access EC2 instance from Jenkins  
 And setup new agent on Jenkins  
   ![12](./12.PNG)  
   ![13](./13.PNG)  
