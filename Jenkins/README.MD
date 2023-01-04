@@ -12,22 +12,21 @@ Create pipeline to run my telegram bot (written on python, private repository on
   Its not properly pipeline, because after run it will be working, until break, so it must be refactor to run in docker  
   ![3](./3.PNG)  
 
-
-Create pipeline item in Jenkins 
+Create pipeline item in Jenkins  
   connect it to github repository, get Jenkinsfile from repository too. Connect with token  
   ![4](./4.PNG)  
-  ![5](./5.PNG)
+  ![5](./5.PNG)  
 
-Configure webhook to allow Jenkins to be notified of push happen
-  ![6](./6.PNG)
+Configure webhook to allow Jenkins to be notified of push happen  
+  ![6](./6.PNG)  
 
 Do some changes, commit them and push to github. Check what happens. Great! Its work!
-  ![7](./7.PNG)
+  ![7](./7.PNG)  
 
 Ok lets run application in docker. Create Dokerfile  
-  ![8](./8.PNG)
+  ![8](./8.PNG)  
   and do some refactor with Jenkinsfile  
-  ![9](./9.PNG)
+  ![9](./9.PNG)  
 Its stell not properly pipeline, because after run docker will be working, until break,  
 so after break it is must be script with wiping out (stop container, delete container and image)  
 
@@ -52,13 +51,9 @@ Set Number of executors to 0 on build-in node for preventing running jobs on it
 Start manual build - all OK! application work well  
   ![16](./16.PNG)  
   ![17](./17.PNG)  
-
-This is not perfect pipeline, its need manual break - it will be improved in future  
+  ![18](./18.PNG)  
+This is not perfect pipeline, its need manual wipe (stop container and remove iamge) - it will be improved in future  
 and try to automate Jenkins agent deployment  
-
-  install Docker Pipeline plugin  
-  ![8](./8.PNG)  
-  and refactor Jenkinsfile  
 
 
 
