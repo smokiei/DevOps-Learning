@@ -1,3 +1,244 @@
-Backup process starts at 10/21/22 16:37:33
+Backup process starts at 01/04/23 11:57:23
+Creating backup directory
 Copying Files
-Backup finished at 10/21/22 16:37:42
+  File will be added	         AUTORUN.INF	               12:48
+  File will be added	            DICOMDIR	               12:48
+  File will be added	          FILE10.DCM	               12:48
+  File will be added	         FILE100.DCM	               12:48
+  File will be added	         FILE101.DCM	               12:48
+  File will be added	          FILE11.DCM	               12:48
+  File will be added	          FILE13.DCM	               12:48
+  File will be added	          FILE14.DCM	               12:48
+  File will be added	          FILE15.DCM	               12:48
+  File will be added	          FILE16.DCM	               12:48
+  File will be added	          FILE17.DCM	               12:48
+  File will be added	          FILE18.DCM	               12:48
+  File will be added	          FILE19.DCM	               12:48
+  File will be added	           FILE2.DCM	               12:48
+  File will be added	          FILE20.DCM	               12:48
+  File will be added	          FILE21.DCM	               12:48
+  File will be added	          FILE22.DCM	               12:48
+  File will be added	          FILE23.DCM	               12:48
+  File will be added	          FILE24.DCM	               12:48
+  File will be added	          FILE25.DCM	               12:48
+  File will be added	          FILE27.DCM	               12:48
+  File will be added	          FILE28.DCM	               12:48
+  File will be added	          FILE29.DCM	               12:48
+  File will be added	           FILE3.DCM	               12:48
+  File will be added	          FILE30.DCM	               12:48
+  File will be added	          FILE31.DCM	               12:48
+  File will be added	          FILE32.DCM	               12:48
+  File will be added	          FILE33.DCM	               12:48
+  File will be added	          FILE34.DCM	               12:48
+  File will be added	          FILE36.DCM	               12:48
+  File will be added	          FILE37.DCM	               12:48
+  File will be added	          FILE38.DCM	               12:48
+  File will be added	          FILE39.DCM	               12:48
+  File will be added	           FILE4.DCM	               12:48
+  File will be added	          FILE40.DCM	               12:48
+  File will be added	          FILE41.DCM	               12:48
+  File will be added	          FILE42.DCM	               12:48
+  File will be added	          FILE43.DCM	               12:48
+  File will be added	          FILE44.DCM	               12:48
+  File will be added	          FILE45.DCM	               12:48
+  File will be added	          FILE46.DCM	               12:48
+  File will be added	          FILE47.DCM	               12:48
+  File will be added	          FILE48.DCM	               12:48
+  File will be added	          FILE49.DCM	               12:48
+  File will be added	           FILE5.DCM	               12:48
+  File will be added	          FILE50.DCM	               12:48
+  File will be added	          FILE52.DCM	               12:48
+  File will be added	          FILE53.DCM	               12:48
+  File will be added	          FILE54.DCM	               12:48
+  File will be added	          FILE55.DCM	               12:48
+  File will be added	          FILE56.DCM	               12:48
+  File will be added	          FILE57.DCM	               12:48
+  File will be added	          FILE58.DCM	               12:48
+  File will be added	          FILE59.DCM	               12:48
+  File will be added	           FILE6.DCM	               12:48
+  File will be added	          FILE60.DCM	               12:48
+  File will be added	          FILE61.DCM	               12:48
+  File will be added	          FILE62.DCM	               12:48
+  File will be added	          FILE63.DCM	               12:48
+  File will be added	          FILE64.DCM	               12:48
+  File will be added	          FILE65.DCM	               12:48
+  File will be added	          FILE66.DCM	               12:48
+  File will be added	          FILE67.DCM	               12:48
+  File will be added	          FILE68.DCM	               12:48
+  File will be added	           FILE7.DCM	               12:48
+  File will be added	          FILE70.DCM	               12:48
+  File will be added	          FILE71.DCM	               12:48
+  File will be added	          FILE72.DCM	               12:48
+  File will be added	          FILE73.DCM	               12:48
+  File will be added	          FILE74.DCM	               12:48
+  File will be added	          FILE75.DCM	               12:48
+  File will be added	          FILE76.DCM	               12:48
+  File will be added	          FILE77.DCM	               12:48
+  File will be added	          FILE78.DCM	               12:48
+  File will be added	          FILE79.DCM	               12:48
+  File will be added	           FILE8.DCM	               12:48
+  File will be added	          FILE81.DCM	               12:48
+  File will be added	          FILE82.DCM	               12:48
+  File will be added	          FILE83.DCM	               12:48
+  File will be added	          FILE84.DCM	               12:48
+  File will be added	          FILE85.DCM	               12:48
+  File will be added	          FILE86.DCM	               12:48
+  File will be added	          FILE87.DCM	               12:48
+  File will be added	          FILE89.DCM	               12:48
+  File will be added	           FILE9.DCM	               12:48
+  File will be added	          FILE90.DCM	               12:48
+  File will be added	          FILE91.DCM	               12:48
+  File will be added	          FILE92.DCM	               12:48
+  File will be added	          FILE93.DCM	               12:48
+  File will be added	          FILE94.DCM	               12:48
+  File will be added	          FILE95.DCM	               12:48
+  File will be added	          FILE96.DCM	               12:48
+  File will be added	          FILE97.DCM	               12:48
+  File will be added	          FILE98.DCM	               12:48
+  File will be added	          FILE99.DCM	               12:48
+  File will be added	        FILMAXCD.EXE	               15:37
+  File will be added	        FILMAXCD.ICO	               20:12
+  File will be added	                  re	               11:56
+sending incremental file list
+mrt/
+mrt/AUTORUN.INF
+mrt/DICOMDIR
+mrt/FILE10.DCM
+mrt/FILE100.DCM
+mrt/FILE101.DCM
+mrt/FILE11.DCM
+mrt/FILE13.DCM
+mrt/FILE14.DCM
+mrt/FILE15.DCM
+mrt/FILE16.DCM
+mrt/FILE17.DCM
+mrt/FILE18.DCM
+mrt/FILE19.DCM
+mrt/FILE2.DCM
+mrt/FILE20.DCM
+mrt/FILE21.DCM
+mrt/FILE22.DCM
+mrt/FILE23.DCM
+mrt/FILE24.DCM
+mrt/FILE25.DCM
+mrt/FILE27.DCM
+mrt/FILE28.DCM
+mrt/FILE29.DCM
+mrt/FILE3.DCM
+mrt/FILE30.DCM
+mrt/FILE31.DCM
+mrt/FILE32.DCM
+mrt/FILE33.DCM
+mrt/FILE34.DCM
+mrt/FILE36.DCM
+mrt/FILE37.DCM
+mrt/FILE38.DCM
+mrt/FILE39.DCM
+mrt/FILE4.DCM
+mrt/FILE40.DCM
+mrt/FILE41.DCM
+mrt/FILE42.DCM
+mrt/FILE43.DCM
+mrt/FILE44.DCM
+mrt/FILE45.DCM
+mrt/FILE46.DCM
+mrt/FILE47.DCM
+mrt/FILE48.DCM
+mrt/FILE49.DCM
+mrt/FILE5.DCM
+mrt/FILE50.DCM
+mrt/FILE52.DCM
+mrt/FILE53.DCM
+mrt/FILE54.DCM
+mrt/FILE55.DCM
+mrt/FILE56.DCM
+mrt/FILE57.DCM
+mrt/FILE58.DCM
+mrt/FILE59.DCM
+mrt/FILE6.DCM
+mrt/FILE60.DCM
+mrt/FILE61.DCM
+mrt/FILE62.DCM
+mrt/FILE63.DCM
+mrt/FILE64.DCM
+mrt/FILE65.DCM
+mrt/FILE66.DCM
+mrt/FILE67.DCM
+mrt/FILE68.DCM
+mrt/FILE7.DCM
+mrt/FILE70.DCM
+mrt/FILE71.DCM
+mrt/FILE72.DCM
+mrt/FILE73.DCM
+mrt/FILE74.DCM
+mrt/FILE75.DCM
+mrt/FILE76.DCM
+mrt/FILE77.DCM
+mrt/FILE78.DCM
+mrt/FILE79.DCM
+mrt/FILE8.DCM
+mrt/FILE81.DCM
+mrt/FILE82.DCM
+mrt/FILE83.DCM
+mrt/FILE84.DCM
+mrt/FILE85.DCM
+mrt/FILE86.DCM
+mrt/FILE87.DCM
+mrt/FILE89.DCM
+mrt/FILE9.DCM
+mrt/FILE90.DCM
+mrt/FILE91.DCM
+mrt/FILE92.DCM
+mrt/FILE93.DCM
+mrt/FILE94.DCM
+mrt/FILE95.DCM
+mrt/FILE96.DCM
+mrt/FILE97.DCM
+mrt/FILE98.DCM
+mrt/FILE99.DCM
+mrt/FILMAXCD.EXE
+mrt/FILMAXCD.ICO
+mrt/re/
+mrt/re/AUTORUN.INF
+mrt/re/DICOMDIR
+mrt/re/FILE10.DCM
+mrt/re/FILE100.DCM
+mrt/re/FILE101.DCM
+mrt/re/FILE11.DCM
+mrt/re/FILE13.DCM
+mrt/re/FILE14.DCM
+mrt/re/FILE15.DCM
+mrt/re/FILE16.DCM
+mrt/re/FILE17.DCM
+mrt/re/FILE18.DCM
+mrt/re/FILE19.DCM
+mrt/re/FILE2.DCM
+mrt/re/FILE20.DCM
+mrt/re/FILE21.DCM
+mrt/re/FILE22.DCM
+mrt/re/FILE23.DCM
+mrt/re/FILE24.DCM
+mrt/re/FILE25.DCM
+mrt/re/FILE27.DCM
+mrt/re/FILE28.DCM
+mrt/re/FILE29.DCM
+mrt/re/FILE3.DCM
+mrt/re/FILE30.DCM
+mrt/re/FILE31.DCM
+mrt/re/FILE32.DCM
+mrt/re/FILE33.DCM
+mrt/re/FILE34.DCM
+mrt/re/FILE36.DCM
+mrt/re/FILE37.DCM
+mrt/re/FILE38.DCM
+mrt/re/FILE39.DCM
+mrt/re/FILE4.DCM
+mrt/re/FILE40.DCM
+mrt/re/FILE41.DCM
+mrt/re/FILE42.DCM
+mrt/re/FILE43.DCM
+mrt/re/FILE44.DCM
+mrt/re/FILE45.DCM
+mrt/re/FILE46.DCM
+mrt/re/FILE47.DCM
+Received Ctrl+C
