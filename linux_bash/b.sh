@@ -8,10 +8,13 @@
 
 #!/usr/bin/env bash
 
+RED='\033[31m'
+Neutral='\033[0m'
+
 function show_usage_and_exit()
 {
-    echo "\033[0;32m USAGE: $0 apache_log_file out_file \033[0m"
-    echo "parse apache_log_file"
+    echo -e "${RED}USAGE: $0 apache_log_file out_file"
+    echo -e "parse apache_log_file${Neutral}"
     exit 0
 }  
 

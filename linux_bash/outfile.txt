@@ -1,0 +1,106 @@
+most requests came from this 10 IPs 
+count	IP
+     62 157.55.39.250
+     61 46.29.2.62
+     34 207.46.13.48
+     10 178.76.227.154
+      7 176.59.119.104
+      4 157.55.39.174
+      3 37.140.141.30
+      2 66.249.78.58
+      2 217.69.134.29
+      2 157.55.39.182
+10 most requested page
+count	Page
+      8 /sitemap1.xml.gz
+      5 /graffiti
+      5 /flowers
+      5 /dresses
+      5 /cats
+      5 /cars
+      4 /weather.php?get
+      4 /snowboard
+      4 /skateboard
+      4 /shoes
+count requests from each ip
+count	IP
+     62 157.55.39.250
+     61 46.29.2.62
+     34 207.46.13.48
+     10 178.76.227.154
+      7 176.59.119.104
+      4 157.55.39.174
+      3 37.140.141.30
+      2 66.249.78.58
+      2 217.69.134.29
+      2 157.55.39.182
+      1 95.108.158.190
+      1 93.158.178.129
+      1 66.249.78.72
+      1 66.249.78.65
+      1 66.249.69.39
+      1 5.255.253.74
+      1 5.255.253.45
+      1 217.69.134.39
+      1 217.69.134.15
+      1 217.69.134.13
+      1 217.69.134.12
+      1 217.69.134.11
+      1 213.87.151.38
+      1 185.53.44.186
+the site got most requests at that hour
+count of reqests	Date:hour
+bots accessed site
+IP	Bot
+5.255.253.45 - - [30/Sep/2015:00:15:02 +0300] Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+5.255.253.74 - - [30/Sep/2015:01:20:49 +0300] Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+37.140.141.30 - - [30/Sep/2015:00:36:29 +0300] Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+37.140.141.30 - - [30/Sep/2015:00:58:48 +0300] Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+37.140.141.30 - - [30/Sep/2015:02:06:53 +0300] Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+66.249.69.39 - - [30/Sep/2015:01:40:20 +0300] Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.78.58 - - [30/Sep/2015:02:01:44 +0300] Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7 (compatible; Mediapartners-Google/2.1; +http://www.google.com/bot.html)
+66.249.78.58 - - [30/Sep/2015:02:26:51 +0300] Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+66.249.78.65 - - [30/Sep/2015:00:42:34 +0300] Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+93.158.178.129 - - [30/Sep/2015:01:44:32 +0300] Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+95.108.158.190 - - [30/Sep/2015:01:00:17 +0300] Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+157.55.39.174 - - [30/Sep/2015:00:27:41 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+157.55.39.174 - - [30/Sep/2015:00:27:43 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+157.55.39.174 - - [30/Sep/2015:00:42:55 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+157.55.39.174 - - [30/Sep/2015:02:19:54 +0300] Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+157.55.39.182 - - [30/Sep/2015:02:20:46 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+157.55.39.182 - - [30/Sep/2015:02:20:47 +0300] Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+157.55.39.250 - - [30/Sep/2015:01:37:47 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+157.55.39.250 - - [30/Sep/2015:02:11:08 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+157.55.39.250 - - [30/Sep/2015:02:11:10 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+157.55.39.250 - - [30/Sep/2015:02:25:49 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+157.55.39.250 - - [30/Sep/2015:02:25:50 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+157.55.39.250 - - [30/Sep/2015:02:25:51 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+157.55.39.250 - - [30/Sep/2015:02:25:52 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+157.55.39.250 - - [30/Sep/2015:02:25:53 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+157.55.39.250 - - [30/Sep/2015:02:25:54 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+157.55.39.250 - - [30/Sep/2015:02:25:55 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+157.55.39.250 - - [30/Sep/2015:02:26:50 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+157.55.39.250 - - [30/Sep/2015:02:26:51 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+157.55.39.250 - - [30/Sep/2015:02:26:52 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+157.55.39.250 - - [30/Sep/2015:02:26:53 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+157.55.39.250 - - [30/Sep/2015:02:26:54 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+157.55.39.250 - - [30/Sep/2015:02:26:55 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+157.55.39.250 - - [30/Sep/2015:02:26:56 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+185.53.44.186 - - [30/Sep/2015:01:00:00 +0300] Mozilla/5.0 (compatible; XoviBot/2.0; +http://www.xovibot.net/)
+207.46.13.48 - - [30/Sep/2015:02:05:47 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+207.46.13.48 - - [30/Sep/2015:02:19:19 +0300] Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 (compatible; bingbot/2.0;  http://www.bing.com/bingbot.htm)
+207.46.13.48 - - [30/Sep/2015:02:20:47 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+207.46.13.48 - - [30/Sep/2015:02:26:20 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+207.46.13.48 - - [30/Sep/2015:02:26:21 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+207.46.13.48 - - [30/Sep/2015:02:26:22 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+207.46.13.48 - - [30/Sep/2015:02:26:23 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+207.46.13.48 - - [30/Sep/2015:02:26:24 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+207.46.13.48 - - [30/Sep/2015:02:26:25 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+207.46.13.48 - - [30/Sep/2015:02:26:26 +0300] Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+217.69.134.11 - - [30/Sep/2015:01:20:36 +0300] Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/Fast/2.0; +http://go.mail.ru/help/robots)
+217.69.134.12 - - [30/Sep/2015:01:38:33 +0300] Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/Fast/2.0; +http://go.mail.ru/help/robots)
+217.69.134.13 - - [30/Sep/2015:01:57:09 +0300] Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/Fast/2.0; +http://go.mail.ru/help/robots)
+217.69.134.15 - - [30/Sep/2015:00:46:33 +0300] Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/Fast/2.0; +http://go.mail.ru/help/robots)
+217.69.134.29 - - [30/Sep/2015:01:04:17 +0300] Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/Fast/2.0; +http://go.mail.ru/help/robots)
+217.69.134.29 - - [30/Sep/2015:02:17:00 +0300] Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/Fast/2.0; +http://go.mail.ru/help/robots)
+217.69.134.39 - - [30/Sep/2015:00:27:51 +0300] Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/Fast/2.0; +http://go.mail.ru/help/robots)

@@ -15,10 +15,9 @@ function ctrlc {
 
 function show_usage_and_exit()
 {
-    echo "USAGE:  $0 [--all] [--target]"
+    echo "USAGE: $0 [--all] [--target]"
     echo "Key [--all] - displays a list of IP addresses and symbolic names of all hosts in the current subnet."
     echo "Key [--target] - displays a list of open system TCP ports."
-    echo -e "\033[0m"
     exit 0
 }  
 
@@ -32,7 +31,8 @@ function tcp_ports() {
 function ip_addresses() {
     printf "List of IP addresses and symbolic names of all hosts in the current subnet:\n"
     host_ip=$(hostname -I | cut -f1,2,3 -d.)
-    printf "$(sudo nmap -sn ${host_ip}.0/24 | awk '/Nmap scan report for/{printf $5 "\t" $6;}/MAC Address:/{print " "substr($0, index($0,$4)) }')"
+    sudo nmap -sn ${host_ip}.0/24
+    ##printf "$(sudo nmap -sn ${host_ip}.0/24 | awk '/Nmap scan report for/{printf $5 "\t" $6;}/MAC Address:/{print " "substr($0, index($0,$4)) }')"
 }
 
 function check_nmap_is_installed {

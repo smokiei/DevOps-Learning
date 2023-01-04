@@ -6,18 +6,29 @@
 
 
 #!/usr/bin/env bash
+RED='\033[31m'
+Neutral='\033[0m'
 
 function ctrlc {
 	echo "Received Ctrl+C" >> $LOGFILE
+	rm $TEMPFILE
+  rm $PIDFILE
 	exit 255
 }
 
 function show_usage_and_exit()
 {
-    echo "\033[0;32m USAGE: $0 work_directory backup_directory \033[0m"
-    echo "parse apache_log_file"
+
+    echo -e "${RED}USAGE: $0 work_directory backup_directory${Neutral}"
     exit 0
-}  
+}
+
+function exit_from_script_with_error()
+{
+  rm $TEMPFILE
+  rm $PIDFILE
+  exit 1
+}
 
 PIDFILE=/var/run/c.pid
 
@@ -28,14 +39,14 @@ then
   if [ $? -eq 0 ]
   then
     echo "Process already running"
-    #exit 1
+    exit 1
   else
     ## Process not found assume not running
     echo $$ > $PIDFILE
     if [ $? -ne 0 ]
     then
       echo "Could not create PID file"
-      #exit 1
+      exit 1
     fi
   fi
 else
@@ -43,7 +54,7 @@ else
   if [ $? -ne 0 ]
   then
     echo "Could not create PID file"
-    #exit 1
+    exit 1
   fi
 fi
 
@@ -62,12 +73,20 @@ trap ctrlc SIGINT
 
 echo "Backup process starts at $(date +"%D %T")" >> $LOGFILE
 
+if [ ! -d $BACKUP_FROM ]; then
+	echo "There is no source directory... exiting" >> $LOGFILE
+	exit_from_script_with_error
+fi
+
 if [ ! -d $BACKUP_TO ]; then
 	echo "Creating backup directory" >> $LOGFILE
 	if ! (mkdir $BACKUP_TO 2> /dev/null); then
 		echo "Cant create backup directory" >> $LOGFILE
+		exit_from_script_with_error
 	fi
 fi
+
+###todo: check if backup dir not in source dir for exclude recursion copying
 
 diff -r $BACKUP_FROM $BACKUP_TO | cut -f3,4 -d' '  >> $TEMPFILE
 
@@ -96,9 +115,9 @@ done
 rsync -avu --delete $BACKUP_FROM $BACKUP_TO   >> $LOGFILE
 
 rm $TEMPFILE
+rm $PIDFILE
 
 echo "Backup finished at $(date +"%D %T")" >> $LOGFILE
 
-read -p "Press enter to continue"
-
+#read -p "Press enter to continue"
 
