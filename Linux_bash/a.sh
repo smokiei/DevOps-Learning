@@ -56,8 +56,9 @@ function check_nettools_is_installed {
         sudo apt install net-tools  -y
     fi
 }
-#######main#########
 
+
+######################  main  ######################
 if [[ $# -eq 0 ]]; then
     show_usage_and_exit
 fi

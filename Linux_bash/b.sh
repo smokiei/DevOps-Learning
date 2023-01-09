@@ -83,7 +83,7 @@ function bots_accessed_site()
     awk -F'"' '{print $1 $6}' $INFILE | grep -i 'bot' | sort -n | uniq #| sort -nr | head -30
 }
 
-######-----main-----######
+######################  main  ######################
 if [ -z "$1" ] || [ -z "$2" ]; then
     show_usage_and_exit
 fi

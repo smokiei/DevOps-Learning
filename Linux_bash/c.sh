@@ -9,6 +9,8 @@
 RED='\033[31m'
 Neutral='\033[0m'
 
+
+
 function ctrlc {
 	echo "Received Ctrl+C" >> $LOGFILE
 	rm $TEMPFILE
@@ -30,8 +32,8 @@ function exit_from_script_with_error()
   exit 1
 }
 
+######################  main  ######################
 PIDFILE=/var/run/c.pid
-
 if [ -f $PIDFILE ]
 then
   PID=$(cat $PIDFILE)

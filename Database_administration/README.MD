@@ -1,7 +1,7 @@
-#### Database Administration
+## Database Administration
 
 
-###### PART 1
+### PART 1
 1. Download MySQL server for your OS on VM
 2. Install MySQL server on VM
 ![1](./1.PNG)  
@@ -36,7 +36,7 @@
   
   
   
-###### PART 2  
+### PART 2  
 10. Make backup of your database  
 11. Delete the table and/or part of the data in the table  
 12. Restore your database  
@@ -62,7 +62,7 @@
   
   
   
-##### PART 3 – MongoDB
+### PART 3 – MongoDB
 17. Create a database\. Use the use command to connect to a new database (If it doesn't exist, Mongo will create it when you write to it)  
 ![22](./22.PNG)  
 ![23](./23.PNG)  

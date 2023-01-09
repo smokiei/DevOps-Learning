@@ -1,5 +1,6 @@
 # **[Online UA] Cloud and DevOps Autumn 22**
-## L1 course Home Tasks by [tkachenkok.pp.ua](http://tkachenkok.pp.ua)
+# by [tkachenkok.pp.ua](http://tkachenkok.pp.ua)
+## L1 course Home Tasks 
 
 * #### [Linux+Bash](Linux_bash/README.MD)
 
@@ -19,3 +20,4 @@
   
 * #### [Ansible](./Ansible/README.MD)
 
+## L1 course Final Project
