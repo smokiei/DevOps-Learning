@@ -10,7 +10,7 @@
 
 * #### [Virutalization_and_Cloud_Basic_AWS](AWS_Virutalization_and_Cloud_Basic/README.MD)
 
-* #### [Virutalization_and_Cloud_Basic_Azure](./Virutalization_and_Cloud_Basic_Azure/README.MD)
+* #### [Virutalization_and_Cloud_Basic_Azure](Azure_Virutalization_and_Cloud_Basic/README.MD)
 
 * #### [Jenkins](./Jenkins/README.MD)
 
