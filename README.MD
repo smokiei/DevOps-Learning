@@ -8,7 +8,7 @@
 
 * #### [Networking using Linux](Networking_using_linux/README.MD)    
 
-* #### [Virutalization_and_Cloud_Basic_AWS](./Virutalization_and_Cloud_Basic_AWS/README.MD)
+* #### [Virutalization_and_Cloud_Basic_AWS](AWS_Virutalization_and_Cloud_Basic/README.MD)
 
 * #### [Virutalization_and_Cloud_Basic_Azure](./Virutalization_and_Cloud_Basic_Azure/README.MD)
 
