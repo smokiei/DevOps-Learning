@@ -1,6 +1,6 @@
 #### Virutalization and Cloud Basic (Azure)
 
-################ Part 1 Configure application
+## Part 1 Configure application
 1.	Create a service connection in a Azure DevOps project to your subscription - https://learn.microsoft.com/en-us/azure/devops/pipelines/library/service-endpoints?view=azure-devops&tabs=yaml
 2.	Find a .net pet project for the experiments  
 3.	Build your app locally .net project via dotnet tool. dotnet restore/build/run  
@@ -13,7 +13,7 @@
 5.	Create a branching policy for you application. Added yourself as a reviewer - https://learn.microsoft.com/en-us/azure/devops/repos/git/branch-policies?view=azure-devops&tabs=browser As branching strategy use a github flow (It will be applied by default when you strict commit to your main branch)  
 ![4](./4.PNG)  
 
-################ Part 2 Configure a pipeline to deploy infrastructure  
+## Part 2 Configure a pipeline to deploy infrastructure  
 Terraform storage account  
 1.	Create a separate resource group and deploy azure storage account  
 ![5](./5.PNG)  
@@ -85,7 +85,7 @@ Create a terraform pipeline
 3.	Added 3 steps – terraform install, terraform init, terraform plan/apply. Plan is an optional one. You may add it as 4th step  
 ![22](./22.PNG)  
   
-Part 3 – Create a deploy pipeline to app service  
+## Part 3 – Create a deploy pipeline to app service  
 1.	Add yml pipeline to the application folder  
 2.	Your pipeline structure should contain 2 stages. 1st – build, create zip archieve, and publish an artifact. 2nd – download an artifact and deploy it to azure app service  
 3.	To deploy .zip to app service use azure app service deployment task  

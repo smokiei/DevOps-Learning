@@ -6,7 +6,7 @@
   
 * #### [Database Administration](Database_administration/README.MD)  
   
-* #### [Networking using Linux](Networking_using_linux/README.MD)    
+* #### [Networking using Linux](Networking_using_linux/README.MD)  
   
 * #### [Virutalization_and_Cloud_Basic_AWS](AWS_Virutalization_and_Cloud_Basic/README.MD)  
   
