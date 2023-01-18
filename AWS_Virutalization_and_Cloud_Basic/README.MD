@@ -1,4 +1,4 @@
-# Virutalization and Cloud Basic (AWS)
+# Virtualization and Cloud computing Basic (AWS)
 1. Review Getting Started with Amazon EC2. Log Into Your AWS Account, Launch, Configure, Connect and Terminate Your Instance. Do not use Amazon Lightsail. It is recommended to use the t2 or t3.micro instance and the CentOS operating system  
 ![1](./1.PNG)  
 ![2](./2.PNG)  

@@ -1,12 +1,12 @@
 # Terraform 
 create (./main.tf) like sample with actual Ubuntu ami
-run Terraform init  
+run terraform init  
   ![1](./1.PNG)
   
-run Terraform plan  
+run terraform plan  
   ![2](./2.PNG)  
 
-run Terraform apply  
+run terraform apply  
   ![3](./3.PNG)  
 
 Check AWS - instance created  
@@ -18,5 +18,5 @@ dont forger terraform destroy
 Check AWS - instance destroyed  
   ![6](./6.PNG)
 
-Do some changes, commit them and push to github. Check what happens. Great! Its work!
+Do some changes, commit them and push to github. Check what happens. Great! It works!
   ![7](./7.PNG)
